@@ -29,11 +29,11 @@ void loop(){
     Serial.println("Error: DHT VALUE NAN");
     return();
   }
-  //Print Values
+  //Serial Output in CSV format
   Serial.print(LDR_value);
-  Serial.print("temp: ");
+  Serial.print(",");
   Serial.print(temp);
-  Serial.print("hum: ");
+  Serial.print(",");
   Serial.println(hum);
 
 }
