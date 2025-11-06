@@ -20,15 +20,15 @@ The Python script reads the data using **pySerial**, parses it, and creates a li
 - Breadboard
 
 ### Build:
-![Picture of Circuit](/docs/Circuit Picture.jpg)
+![Picture of Circuit](docs/circuit_picture.jpg)
 
 ## How to run it
 To run the project follow these steps:
 - Have Python 3.9 or higher installed
 - Build the curcuit and connect it to your PC
 - Change the COM in the py script to the COM your Arduino uses
-- Upload the ![main.ino script](/arduino code/main.ino) to your arduino
-- run the ![main.py script](/python/main.py)
+- Upload the [main.ino script](arduino_code/main.ino) to your arduino
+- run the [main.py script](python/main.py)
 - open the new window to see the values
 
 
