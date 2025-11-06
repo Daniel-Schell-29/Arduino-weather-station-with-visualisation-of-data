@@ -1,5 +1,5 @@
 # Arduino-weather-station-with-live-data-visualisation
-This project records enviromental data(temperature, humidity and brightness) using an Arduino Uno and visualises it in a real-time python interface.
+This project records environmental data(temperature, humidity and brightness) using an Arduino Uno and visualises it in a real-time python interface.
 This project makes a complete data pipeline, from sensor input through serial communication to live data visualisation.
 
 ## Features
